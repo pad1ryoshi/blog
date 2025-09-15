@@ -32,7 +32,6 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		{
 		   src: 'src/assets/images/maomao-ico.jpg',    // Path of the favicon, relative to the /public directory
-		   sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
 		}
 	],
 };
