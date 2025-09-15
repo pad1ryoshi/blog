@@ -31,7 +31,7 @@ export const siteConfig: SiteConfig = {
 	},
 	favicon: [
 		{
-		   src: 'src/assets/images/maomao-ico.jpg',    // Path of the favicon, relative to the /public directory
+		   src: 'favicon/maomao-ico.png',    // Path of the favicon, relative to the /public directory
 		}
 	],
 };
