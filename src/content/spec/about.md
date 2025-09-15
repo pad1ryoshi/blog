@@ -1,5 +1,5 @@
 # About
-Hello, my name is Rodrigo Padilha or just "pad1ryoshi". This blog will be used to talk about Web Security and Application Security.
+Hello, my name is Rodrigo Padilha but you guys can call me "pad1ryoshi" our just "pad1". This blog will be used to talk about Web Security and Application Security.
 
 ::github{repo="pad1ryoshi/blog"}
 
