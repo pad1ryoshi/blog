@@ -1,9 +1,19 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Hello, my name is Rodrigo Padilha or just "pad1ryoshi". This blog will be used to talk about Web Security and Application Security.
 
-::github{repo="saicaca/fuwari"}
+::github{repo="pad1ryoshi/blog"}
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+> ### My profiles
+> - [HackerOne](https://hackerone.com/pad1ryoshi?type=user)
+> - [Intigriti](https://app.intigriti.com/profile/pad1ryoshi)
+> - [HackTheBox](https://app.hackthebox.com/profile/1867598)
+> - [TryHackMe](https://tryhackme.com/p/pad1ryoshi)
+> - [Youtube](https://www.youtube.com/@pad1ryoshi-x)
+> - [Github](https://github.com/pad1ryoshi)
+> - [Twitter/X](https://twitter.com/pad1ryoshi)
+
+> ### Certifications
+> - [eJPT](https://certs.ine.com/5041493b-1871-43ac-a91c-6c6854638362)
+
+> ### CVE
+> - [CVE-2025-6089](https://nvd.nist.gov/vuln/detail/CVE-2025-6089)
