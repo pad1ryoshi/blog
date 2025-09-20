@@ -3,7 +3,7 @@ title: Path Traversal
 published: 2025-05-15
 description: 'Notes about path traversal vulnerability'
 image: "guide/tanjiro.jpg"
-tags: [path-traversal, web-vulns]
+tags: [server-side, web-vulns]
 category: 'WebSec'
 draft: false 
 ---
